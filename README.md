@@ -2,6 +2,12 @@
 
 
 > Get to know more about me
+
+***
+
+Discover all my projects here, as of now I am in the process of updating my **Git Hub Profile** , So bear with me till I output the Final Piece 🖥️ .
+
+
 <!--
 **naZreenmanZ/naZreenmanZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
