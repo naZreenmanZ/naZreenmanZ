@@ -1,4 +1,4 @@
-### Hi there  i am naZreen manZoor👋
+### Hi there  i am [naZreen manZoor](https://www.linkedin.com/in/nazreen-manzoor/)👋
 
 <!--
 **naZreenmanZ/naZreenmanZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
