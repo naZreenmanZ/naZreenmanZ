@@ -3,7 +3,12 @@
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BF7CC&background=89FF7F00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+Learning+New+Tech+Stack" alt="Typing SVG" /></a> </p>
 
 <!-- > Get to know more about me -->
+<div >
+<img width="40%" align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+</div>
+
 ## About Me
+
 <div>
 I absolutley love Technology and Design and almost everything I do revolves around Technology and Design. Books and Art is another whole dimension that I am passionate about.
 
@@ -13,9 +18,7 @@ Love to explore new TechStack.
 
 Currenlty geeking about Blockchain and working with Solidity Projects.
   </div>
-<div >
-<img width="40%" align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
-</div>
+
 
 ## My Portfolio
 #### Languages:
