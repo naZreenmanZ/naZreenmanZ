@@ -11,7 +11,7 @@ Love to explore new TechStack.
 
 Currenlty geeking about Blockchain and working with Solidity Projects.
 
-## My Portfloio
+## My Portfolio
 #### Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/Java_Script-121011?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
@@ -55,7 +55,7 @@ Currenlty geeking about Blockchain and working with Solidity Projects.
 
 ## Connect with me:
 
-<p align = "center">
+<p align ='center'>
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/ManzoorNazreen) 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/nazreen-manzoor/)
