@@ -4,12 +4,18 @@
 
 <!-- > Get to know more about me -->
 ## About Me
+<div>
 I absolutley love Technology and Design and almost everything I do revolves around Technology and Design. Books and Art is another whole dimension that I am passionate about.
 
 A complete Python Geek. 
 Love to explore new TechStack.
 
+
 Currenlty geeking about Blockchain and working with Solidity Projects.
+  </div>
+<div >
+<img width="40%" align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+</div>
 
 ## My Portfolio
 #### Languages:
