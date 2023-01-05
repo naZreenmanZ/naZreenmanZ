@@ -4,7 +4,7 @@
 
 <!-- > Get to know more about me -->
 ## About Me
-I absolutley love Technology and Design and almost everthing I do revolves around Technology and Design.
+I absolutley love Technology and Design and almost everything I do revolves around Technology and Design.
 
 A complete Python Geek. 
 Love to explore new TechStack.
