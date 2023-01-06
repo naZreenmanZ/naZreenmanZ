@@ -56,6 +56,7 @@ Currenlty geeking about Blockchain and working with Solidity Projects.
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Atlassian](https://img.shields.io/badge/atlassian-blue.svg?style=for-the-badge&logo=atlassian&logoColor=white)
 
 ## 🔥 Streak stats
 
