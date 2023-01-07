@@ -70,8 +70,9 @@ Currenlty geeking about Blockchain and working with Solidity Projects.
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/ManzoorNazreen) 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/nazreen-manzoor/)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@nazreenmanz)
-<!-- [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/organizoholic/) -->
 [<img src="https://img.shields.io/badge/reddit-%2312100E.svg?&style=for-the-badge&logo=reddit&logoColor=white&color=black" />](https://www.reddit.com/)
+<!-- [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/organizoholic/) -->
+
 
 </p>
 ***
