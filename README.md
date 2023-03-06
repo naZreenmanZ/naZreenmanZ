@@ -25,6 +25,7 @@ Currenlty geeking about Blockchain and working with Solidity Projects.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/Java_Script-121011?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-ED8B00?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=blue)&nbsp;
 ![Solidity](https://img.shields.io/badge/Solidity-grey?style=for-the-badge&logo=solidity&logoColor=white)&nbsp;
 
 
