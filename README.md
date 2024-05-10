@@ -10,13 +10,13 @@
 ## About Me
 
 <div>
-I absolutley love Technology and Design and almost everything I do revolves around Technology and Design. Books and Art is another whole dimension that I am passionate about.
+I love Technology and Design and almost everything I do revolves around Technology and Design. Books and Art is another dimension that I am passionate about.
 
 A complete Python Geek. 
-Love to explore new TechStack.
+Love to explore new TechStacks.
 
 
-Currenlty geeking about Blockchain and working with Solidity Projects.
+Currently working with MERN Stack Projects.
   </div>
 
 
