@@ -59,8 +59,11 @@ Currently working with MERN Stack Projects.
 ![Atlassian](https://img.shields.io/badge/atlassian-blue.svg?style=for-the-badge&logo=atlassian&logoColor=white)
 
 ## 🔥 Streak stats
+<div align ='center'>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naZreenmanZ&theme=everforest-dark)](https://git.io/streak-stats)
+</div>
+
 
 ## Connect with me:
 
